@@ -10,6 +10,8 @@ Exemple dans cette démo :
 
 [![Voir la demo vidéo](https://i.vimeocdn.com/video/650174374_480x297.jpg)](https://vimeo.com/229776226)
 
+----------
+
 ![Schema](https://www.smashingmagazine.com/wp-content/uploads/2017/06/chatapp_with_web-speech_api-preview-opt-1.png)
 
 
