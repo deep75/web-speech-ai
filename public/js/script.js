@@ -44,6 +44,7 @@ function synthVoice(text) {
   const synth = window.speechSynthesis;
   const utterance = new SpeechSynthesisUtterance();
   utterance.text = text;
+  utterance.lang = 'fr-FR';
   synth.speak(utterance);
 }
 
