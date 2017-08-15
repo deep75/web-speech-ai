@@ -14,11 +14,11 @@ Exemple sur [Vimeo](https://vimeo.com/215612852/)
 
 ### Tester sur son propre serveur
 
-Allez sur API.ai pour récupérer vos tokens d'accès.
+Allez sur API.ai pour récupérer vos tokens d'accès à insérer dans ```index.js```.
 Lancez ```npm install``` puis ```node index.js``` et allez sur ```http://localhost:5000```
 
 
 Plus d'infos sur : [https://www.smashingmagazine.com/2017/08/ai-chatbot-web-speech-api-node-js/](https://www.smashingmagazine.com/2017/08/ai-chatbot-web-speech-api-node-js/)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/deep75/web-speech-ai)
+[![Deploy](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/?repository=https://github.com/deep75/web-speech-ai)
 
