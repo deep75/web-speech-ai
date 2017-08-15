@@ -7,6 +7,8 @@ Utilisation expérimentale de Web Speech API, qui est seulement [supporté](http
 
 ![Schema](https://www.smashingmagazine.com/wp-content/uploads/2017/06/chatapp_with_web-speech_api-preview-opt-1.png)
 
+----------
+
 Exemple sur [Vimeo](https://vimeo.com/215612852/)
 
 
