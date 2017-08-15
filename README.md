@@ -20,7 +20,6 @@ Exemple sur [Vimeo](https://vimeo.com/215612852/)
 
 ### Tester sur son propre serveur
 
-Allez sur API.ai pour récupérer vos tokens d'accès à insérer dans ```index.js```.
 Lancez ```npm install``` puis ```node index.js``` et allez sur ```http://localhost:5000```
 
 
