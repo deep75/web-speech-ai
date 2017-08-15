@@ -1,6 +1,6 @@
 'use strict';
 
-const APIAI_TOKEN = '';
+const APIAI_TOKEN = 'd9aa3760b04e492f8f4c63fd59c327ed';
 const APIAI_SESSION_ID = '27b43721-551b-47ea-98ad-c928b2c3e915';
 
 const express = require('express');
