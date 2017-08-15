@@ -15,7 +15,7 @@ Exemple sur [Vimeo](https://vimeo.com/215612852/)
 ### Tester sur son propre serveur
 
 Allez sur API.ai pour récupérer vos Tokens (à placer dans .env).
-
+Lancer ```npm install```
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/deep75/web-speech-ai)
 
