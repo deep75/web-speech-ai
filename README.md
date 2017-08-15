@@ -2,6 +2,7 @@
 
 ![FC Logo](https://prismic-io.s3.amazonaws.com/franceconnect/04dca7f3632d590270dc86c51332b3d99ebca358_logo_franceconnect.png)
 
+----------
 
 Utilisation expérimentale de Web Speech API, qui est seulement [supporté](http://caniuse.com/#search=speech) par ces navigateurs incluants Chrome 25+, Opera 27+, Samsung Internet, QQ Browser, et Baidu Browser.
 
