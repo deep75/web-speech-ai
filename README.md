@@ -1,7 +1,5 @@
 # Demo: Chatbot de test utilisant Web Speech API et Node.js
 
-----------
-
 ![FC Logo](https://prismic-io.s3.amazonaws.com/franceconnect/04dca7f3632d590270dc86c51332b3d99ebca358_logo_franceconnect.png)
 
 
