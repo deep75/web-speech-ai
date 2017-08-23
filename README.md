@@ -27,3 +27,8 @@ Plus d'infos sur : [https://www.smashingmagazine.com/2017/08/ai-chatbot-web-spee
 
 [![Deploy](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/?repository=https://github.com/deep75/web-speech-ai)
 
+
+[![Déployer dans Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/deep75/web-speech-ai)
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/deep75/web-speech-ai)
+
