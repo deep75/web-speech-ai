@@ -32,5 +32,5 @@ Plus d'infos sur : [https://www.smashingmagazine.com/2017/08/ai-chatbot-web-spee
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/deep75/web-speech-ai)
 
-[![Démo](http://coderisland.com/wp-content/uploads/2013/03/demo-button.png)](https://web-speech-ai-20170823150825501.mybluemix.net)
+[![Démo](http://coderisland.com/wp-content/uploads/2013/03/demo-button.png)](https://web-speech-ai.mybluemix.net)
 
