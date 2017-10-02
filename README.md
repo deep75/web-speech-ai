@@ -20,7 +20,7 @@ Exemple sur [Vimeo](https://vimeo.com/215612852/)
 
 ### Tester sur son propre serveur
 
-Attention auparavant de bien ajouter votre Token d'API.ai dans le fichier JSON et app.js !!!
+Attention auparavant de bien ajouter votre Token d'API.ai dans le fichier JSON et index.js !!!
 
 Lancez ```npm install``` puis ```node index.js``` et allez sur ```http://localhost:5000```
 
